@@ -3,7 +3,7 @@ const path = require('path');
 
 const inputFilePath = "/workspaces/url_diff_check/files_to_log/Dusty Slay_ Workin’ Man (2024) _ Transcript.pdf"
 const outputFolder = "/workspaces/url_diff_check/file_logs"
-const outputFileName = 'themLogs.txt'
+const outputFileName = 'themLogs.pdf'
 // Function to read and log the file content
 function readAndLogFile(inputFilePath, outputFolder, outputFileName) {
     // Ensure the output directory exists
